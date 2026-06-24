@@ -89,7 +89,7 @@ if opcao == '1':
         
         
         
-        if p1_nome == '':
+    elif p1_nome == '':
         p1_nome = input('Corte: ')
         p1_estoque = int(input('victor, kauan e felipe: '))
         p1_preco = float(input('30: '))
@@ -159,3 +159,25 @@ if opcao == '1':
      if nome_venda.lower() == p1_nome.lower() and p1_nome != "":
          qtd_venda = int (input(f''quantas unidades de '' p1_nome  != "":
           if qtd_venda <=
+# Inicializando as variáveis para o Produto 1 (vazio)
+          p1_nome = 
+          p1_estoque =
+          p1_validade =
+          p1_descricao = 
+
+# Inicializando as variáveis para o Produto 2 (vazio)
+        p2_nome =
+        p2_estoque =
+        p2_preco =
+        p2_validade =
+        p2_validade =
+
+  # Inicializando as variáveis para o Produto 3 (vazio)
+    
+    p3_nome =
+    p3_estoque =
+    p3_preco =
+    p3_validade =
+    p3_descricao =
+
+    
